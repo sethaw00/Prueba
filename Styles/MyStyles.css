@@ -1,0 +1,125 @@
+.bold{
+    font-weight:bold;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.nobold
+{
+    font-weight: normal;
+}
+
+.indent{
+    text-indent: 200px;
+
+}
+
+.hugefont{
+    font-weight: bolder;
+    font-size: 24px
+}
+
+.headerstyle{
+    color:yellow;
+    text-decoration-line: underline;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%;*/
+}
+
+p{
+    text-align: center;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+a{
+    font-size: 14px;
+    color: white;
+}
+
+.anchor{
+    font-size: 24px;
+}
+
+.ig{
+    font-size: 20px;
+    color: forestgreen;
+}
+h1{
+    color: white;
+    font-family: rockwell;
+}
+
+.resumefont{
+    font-family: rockwell;
+}
+
+.resumeheader{
+    font-family: rockwell;
+    font-size: 36px;
+    text-decoration: underline;
+    color: black;
+}
+.resume{
+    font-family: rockwell;
+    font-weight: bold;
+    font-style: none;
+    font-size: 24px;
+    color: black;
+}
+
+.video{
+    font-family: rockwell;
+    font-size: 28px;
+    text-align: left;
+}
+.serif{
+    font-family: serif;
+    font-size: 24px;
+}
+ul{
+    font-size: 20px;
+}
+.black{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+.cbg{
+    background-color: #38ebb8;
+    height: 2058px;
+}
+
+.cbg2{
+    background-color: #38ebb8;
+    height: 2209px;
+}
+
+.try{
+    text-decoration: line-through
+}
+
+.bottom{
+    bottom: 5px;
+    padding-bottom: -1000px;
+}
+
+.size14{
+    font-size: 14px;
+}
+
+.cr{
+    text-decoration: none;
+    font-size: 12px;
+}
